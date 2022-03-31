@@ -7,7 +7,7 @@ data.main()
 
 root_path = os.getenv("ROOT_PATH", "")
 app = FastAPI(
-    title="介護施設取得 API",
+    title="子育て施設一覧(保育園・幼稚園・認定こども園等) API",
     root_path=root_path
 )
 
