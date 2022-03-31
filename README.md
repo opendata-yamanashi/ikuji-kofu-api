@@ -1,8 +1,8 @@
-# 消防水利施設一覧（消火栓） API
-消防水利施設一覧（消火栓）
+# 子育て施設一覧(保育園・幼稚園・認定こども園等) API
+子育て施設一覧(保育園・幼稚園・認定こども園等)
 
 ## 出典:
-* [消防水利施設一覧（消火栓)](https://www.city.kofu.yamanashi.jp/joho/opendata/shisetsu/index.html)
+* [子育て施設一覧(保育園・幼稚園・認定こども園等)](https://www.city.kofu.yamanashi.jp/joho/opendata/shisetsu/index.html)
 
 ## API 仕様
 (後で書く)
