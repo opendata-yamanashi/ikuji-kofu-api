@@ -14,7 +14,7 @@
 
 * how to setup  
 ```
-$ git clone https://github.com/opendata-yamanashi/shobo-kofu-api
+$ git clone https://github.com/opendata-yamanashi/ikuji-kofu-api
 $ pip install -r requirements.txt
 ```
 * access my application!
